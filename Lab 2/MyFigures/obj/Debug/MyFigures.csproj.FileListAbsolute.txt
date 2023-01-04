@@ -1,0 +1,12 @@
+C:\Users\idavl\source\repos\MyFigures\MyFigures\bin\Debug\MyFigures.dll
+C:\Users\idavl\source\repos\MyFigures\MyFigures\bin\Debug\MyFigures.pdb
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.csproj.AssemblyReference.cache
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.csproj.CoreCompileInputs.cache
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.dll
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.pdb
+E:\study\2 course\OOP programing\Lab2_OOP\MyFigures\bin\Debug\MyFigures.dll
+E:\study\2 course\OOP programing\Lab2_OOP\MyFigures\bin\Debug\MyFigures.pdb
+E:\study\2 course\OOP programing\Lab2_OOP\MyFigures\obj\Debug\MyFigures.csproj.AssemblyReference.cache
+E:\study\2 course\OOP programing\Lab2_OOP\MyFigures\obj\Debug\MyFigures.csproj.CoreCompileInputs.cache
+E:\study\2 course\OOP programing\Lab2_OOP\MyFigures\obj\Debug\MyFigures.dll
+E:\study\2 course\OOP programing\Lab2_OOP\MyFigures\obj\Debug\MyFigures.pdb
