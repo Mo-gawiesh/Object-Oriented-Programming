@@ -1,0 +1,86 @@
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.AssemblyReference.cache
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.Form1.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.FormEllipses.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.FormPolygons.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.FormRect.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.FormRobot.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.FormRounds.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.FormSquares.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.FormTriangles.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.GenerateResource.cache
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\bin\Debug\MyFigures.dll
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\bin\Debug\MyFigures.pdb
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CopyComplete
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+C:\Users\idavl\Source\Repos\Lab5_6_OOP\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\bin\Debug\MyFigures.dll
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\bin\Debug\MyFigures.pdb
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.AssemblyReference.cache
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.Form1.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormEllipses.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormPolygons.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormRect.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormRobot.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormRounds.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormSquares.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormTriangles.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.GenerateResource.cache
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CopyComplete
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\bin\Debug\MyFigures.dll
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\bin\Debug\MyFigures.pdb
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.AssemblyReference.cache
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.Form1.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormEllipses.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormPolygons.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormRect.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormRobot.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormRounds.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormSquares.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormTriangles.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.GenerateResource.cache
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CopyComplete
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
+C:\Users\idavl\Desktop\Lab5_OOP_Mohamed\Lab2_OOP\obj\Debug\Lab3_OOP.FormOlimpicRounds.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\bin\Debug\Lab2_OOP.exe.config
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\bin\Debug\Lab2_OOP.exe
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\bin\Debug\Lab2_OOP.pdb
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\bin\Debug\MyFigures.dll
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\bin\Debug\MyFigures.pdb
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.AssemblyReference.cache
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.SuggestedBindingRedirects.cache
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.Form1.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormEllipses.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormPolygons.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormRect.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormOlimpicRounds.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormRobot.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormRounds.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormSquares.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.FormTriangles.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab2_OOP.Properties.Resources.resources
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.GenerateResource.cache
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CoreCompileInputs.cache
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab3_OOP.csproj.CopyComplete
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab2_OOP.exe
+E:\study\2 course\OOP programing\Lab 5\Lab2_OOP\obj\Debug\Lab2_OOP.pdb
