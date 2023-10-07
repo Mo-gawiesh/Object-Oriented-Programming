@@ -10,3 +10,9 @@ C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\MyFigures\obj\Debug\MyFigures.cspro
 C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\MyFigures\obj\Debug\MyFigures.csproj.CoreCompileInputs.cache
 C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\MyFigures\obj\Debug\MyFigures.dll
 C:\Users\idavl\source\repos\Lab3_OOP_Mohamed\MyFigures\obj\Debug\MyFigures.pdb
+C:\Users\Moe-gawish\Documents\Object-Oriented-Programming\Lab 3\MyFigures\bin\Debug\MyFigures.dll
+C:\Users\Moe-gawish\Documents\Object-Oriented-Programming\Lab 3\MyFigures\bin\Debug\MyFigures.pdb
+C:\Users\Moe-gawish\Documents\Object-Oriented-Programming\Lab 3\MyFigures\obj\Debug\MyFigures.csproj.AssemblyReference.cache
+C:\Users\Moe-gawish\Documents\Object-Oriented-Programming\Lab 3\MyFigures\obj\Debug\MyFigures.csproj.CoreCompileInputs.cache
+C:\Users\Moe-gawish\Documents\Object-Oriented-Programming\Lab 3\MyFigures\obj\Debug\MyFigures.dll
+C:\Users\Moe-gawish\Documents\Object-Oriented-Programming\Lab 3\MyFigures\obj\Debug\MyFigures.pdb
